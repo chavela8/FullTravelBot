@@ -44,3 +44,12 @@ env/
 *.tmp
 *.temp
 *.bak
+
+# Скрипты создания
+create-gitignore.ps1
+
+# Конфиденциальные данные
+credentials.json
+
+# Временные файлы Windows
+*.txt
